@@ -1,5 +1,11 @@
 # Student Performance Dataset EDA and ANN model creation
 
+### kaggle dataset 
+1. [Student Performance](https://www.kaggle.com/datasets/whenamancodes/student-performance)
+
+### kaggle notebook
+1. [Kaggle Notebook](https://www.kaggle.com/code/biswajit01/student-performance-prediction/notebook)
+
 ### Software & Tools Requirement
 
 1. [Github Account](https://github.com)

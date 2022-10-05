@@ -1,6 +1,6 @@
 # Student Performance Dataset EDA and ANN model creation
 
-### kaggle dataset 
+### Data Source 
 1. [Student Performance](https://www.kaggle.com/datasets/whenamancodes/student-performance)
 
 ### kaggle notebook

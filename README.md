@@ -28,3 +28,8 @@ Installation command for python libraries from requirements.txt file
 ```
     pip install -r requirements.txt
 ```
+Command to run the flask app 
+
+```
+    python app.py
+```
